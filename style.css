@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 Mar, 2017, 10:15:57 PM
+    Author     : Sumit
+*/
+body {
+    background-image: url("Images/6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+input[type="button"] {
+    color: #ffffff;
+    background-color: #0066cc; 
+    width: 250px;height:40px;
+}
+input[type="text"],input[type="password"] {
+    color: #000000;
+    font-size: smaller;   
+    border: #000000;
+}
+
+
+ 
